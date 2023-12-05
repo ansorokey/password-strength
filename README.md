@@ -9,7 +9,7 @@ This project was made by following [How To Show Password Strength Using HTML CSS
 - DOM Manipulation
 
 ## How To Use
-Enter text into the password field. Based on the length of the password, a message will display undert the input and interface colors will change.
+Enter text into the password field. Based on the length of the password, a message will display under the input and interface colors will change.
 
 ## Future Features
 - Password Validation and guidelines
